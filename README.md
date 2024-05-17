@@ -1,5 +1,4 @@
-# SQL
-My notes
+# MySQL - Listens to SQL instructions and manages the data
 
 Beginner...........
 
