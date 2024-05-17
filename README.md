@@ -4,7 +4,8 @@
 
 1. Relational DBMS: Tables are linked to each other using relationships
         #Example: Customers ----->Orders------> Products
-  Types: MYSQL
+   
+# Rational DBMS Types: MYSQL
          SQL Server
          Oracle
 
