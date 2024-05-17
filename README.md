@@ -3,7 +3,7 @@
     2. NoSQL
 
 1. Relational DBMS: Tables are linked to each other using relationships
-        #Customers ----->Orders------> Products
+        #Example: Customers ----->Orders------> Products
   Types: MYSQL
          SQL Server
          Oracle
