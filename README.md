@@ -1,3 +1,13 @@
+# DBMS Types:
+    1. Relational
+    2. NoSQL
+
+1. Relational DBMS: Tables are linked to each other using relationships
+        #Customers ----->Orders------> Products
+  Types: MYSQL
+         SQL Server
+         Oracle
+
 # MySQL - Listens to SQL instructions and manages the data
 
 Beginner...........
